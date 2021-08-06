@@ -1,0 +1,12 @@
+C:\Users\38095\Desktop\прога\MSSQLForCSharp\MSSQLForCSharp\bin\Debug\TestDB.mdf
+C:\Users\38095\Desktop\прога\MSSQLForCSharp\MSSQLForCSharp\bin\Debug\TestDB_log.ldf
+C:\Users\38095\Desktop\прога\MSSQLForCSharp\MSSQLForCSharp\bin\Debug\MSSQLForCSharp.exe.config
+C:\Users\38095\Desktop\прога\MSSQLForCSharp\MSSQLForCSharp\bin\Debug\MSSQLForCSharp.exe
+C:\Users\38095\Desktop\прога\MSSQLForCSharp\MSSQLForCSharp\bin\Debug\MSSQLForCSharp.pdb
+C:\Users\38095\Desktop\прога\MSSQLForCSharp\MSSQLForCSharp\obj\Debug\MSSQLForCSharp.csproj.AssemblyReference.cache
+C:\Users\38095\Desktop\прога\MSSQLForCSharp\MSSQLForCSharp\obj\Debug\MSSQLForCSharp.Form1.resources
+C:\Users\38095\Desktop\прога\MSSQLForCSharp\MSSQLForCSharp\obj\Debug\MSSQLForCSharp.Properties.Resources.resources
+C:\Users\38095\Desktop\прога\MSSQLForCSharp\MSSQLForCSharp\obj\Debug\MSSQLForCSharp.csproj.GenerateResource.cache
+C:\Users\38095\Desktop\прога\MSSQLForCSharp\MSSQLForCSharp\obj\Debug\MSSQLForCSharp.csproj.CoreCompileInputs.cache
+C:\Users\38095\Desktop\прога\MSSQLForCSharp\MSSQLForCSharp\obj\Debug\MSSQLForCSharp.exe
+C:\Users\38095\Desktop\прога\MSSQLForCSharp\MSSQLForCSharp\obj\Debug\MSSQLForCSharp.pdb
